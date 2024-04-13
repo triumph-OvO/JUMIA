@@ -91,3 +91,6 @@ body {
         width: 950px;
     }
 }
+.header1 {
+    z-index: 1000;
+}
