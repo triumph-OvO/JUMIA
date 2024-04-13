@@ -45,7 +45,8 @@ body {
         max-width: 950px;
     }
     .right-container1,
-    .right-container2 {
+    .right-container2,
+    .right-1 {
         display: none;
         visibility: hidden;
     }
@@ -57,6 +58,10 @@ body {
     }
     .inner2 img {
         max-width: 145px;
+        position: mw;
+    }
+    .first-grid {
+        width: 950px;
     }
     .second-section,
     .third-section {
